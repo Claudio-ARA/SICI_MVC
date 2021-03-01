@@ -314,6 +314,8 @@
       <DependentUpon>Modelo_SIGMA.edmx</DependentUpon>
       <LastGenOutput>Modelo_SIGMA.cs</LastGenOutput>
     </Content>
+    <Content Include="Models\SCRIPTS\SICI_script.sql" />
+    <Content Include="Models\SCRIPTS\SIGMA_script.sql" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <EntityDeploy Include="Models\Modelo_SIGMA.edmx">
